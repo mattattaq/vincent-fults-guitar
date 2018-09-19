@@ -1,1 +1,8 @@
 // this file is for global styles
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
+@media screen and (max-width: 768px) {
+    .desktop-only {
+        display: none;
+    }
+}
