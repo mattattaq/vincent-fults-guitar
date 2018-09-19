@@ -1,8 +1,15 @@
 //general
 body{
-    margin-top: 100px;
+    margin-top: 85px;
 }
 .section {
     margin-top: 25px;
     margin-bottom: 25px;
+}
+.hero-img {
+    height: 450px;
+    width: 100%;
+    -webkit-box-shadow: inset 7px -1px 69px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 7px -1px 69px 0px rgba(0,0,0,0.75);
+    box-shadow: inset 7px -1px 69px 0px rgba(0,0,0,0.75);
 }
