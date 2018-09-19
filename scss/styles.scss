@@ -7,9 +7,6 @@ Importing CSS Font Styles
 // loading global file that would say have html reset classes or have global styles on text,
 // colors, or global tags like h1
 @import "_global";
-@import "_nav";
 @import "_general";
-@import "_mq-nav";
-@import "_search-table";
-@import "_table";
+@import "_nav";
 @import "_footer";
