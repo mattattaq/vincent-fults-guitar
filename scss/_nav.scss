@@ -40,7 +40,7 @@ nav {
         li {
             display: inline-block;
             margin-right: 10px;
-            font-size: .9rem;
+            font-size: .8rem;
 
         }
     }
@@ -49,8 +49,10 @@ nav {
 .sticky-nav {
     position: fixed;
     width: 100%;
+    font-family: 'Rock Salt', cursive;
+    top:0;
 }
 
 .name {
-    font-family: 'Rock Salt', cursive;
+    font-size: 1.18rem;
 }
