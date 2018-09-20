@@ -5,7 +5,9 @@ body{
         margin-top: 70px;
     }
 }
-
+blockquote {
+ font-size: 14px !important;   
+}
 .section {
     margin-top: 25px;
     margin-bottom: 25px;
@@ -31,5 +33,13 @@ body{
     }
 }
 #content {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    h1 {
+        font-size: 1rem;
+    }
+    p {
+        font-weight: 100;
+        font-family: unset !important;
+        font-size: 14px;
+    }
 }
