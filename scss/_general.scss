@@ -21,7 +21,7 @@ blockquote {
 .hero-img {
     height: 450px;
     width: 100%;
-    background-image: url('/img/5.jpg');
+    background-image: url('../img/5.jpg');
     overflow: hidden;
     background-size: cover;
     background-position-y: -150px;
@@ -48,18 +48,4 @@ blockquote {
         font-family: unset !important;
         font-size: 14px;
     }
-}
-iframe {
-    // @media screen and (max-width: 1024px) {
-    //     width: 700px;
-    // }
-    // @media screen and (max-width: 768px) {
-    //     width: 600px;
-    // }
-    // @media screen and (max-width: 600px) {
-    //     width: 414px;
-    // }
-    // @media screen and (max-width: 414px) {
-    //     width: 320px;
-    // }
 }
